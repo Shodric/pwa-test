@@ -1,0 +1,12 @@
+{
+  "name": "Titulo del Manifest",
+  "short_name": "Subtitulo Manifest",
+  "description": "Descripción del Manifest",
+  "background_color": "#2B2B2B",
+  "theme_color": "#F0DB4F",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": "./?utm_source=web_app_manifest",
+  "scope": "./",
+  "lang": "es-AR",
+}
